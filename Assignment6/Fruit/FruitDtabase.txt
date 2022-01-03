@@ -1,0 +1,65 @@
+Olives
+One tablespoon of ripe olives
+0.07
+10
+0.3
+Kiwi
+One medium kiwi (69 grams)
+0.79
+42
+2.1
+Papayas
+One cup of cubed fresh papaya
+0.85
+55
+2.5
+Banana
+One medium banana
+1.29
+105
+3.1
+Avocado
+One medium avocado
+4.02
+322
+13.5
+Gooseberries
+One cup of gooseberries
+1.32
+66
+6.5
+Watermelon
+One medium wedge (slice) of watermelon (about 2 cups edible portion)
+1.74
+86
+1.1
+Pomegranate
+One fresh pomegranate
+4.71
+234
+11.3
+Peach
+One medium peach (with skin)
+1.36
+58
+2.2
+Grapefruit
+One cup of grapefruit sections
+1.45
+74
+2.5
+Pears
+One medium pear
+0.68
+103
+5.5
+Lemon
+One lemon without peel
+0.92
+24
+2.4
+Raisins
+One small box of raisins (1.5 ozs)
+1.32
+129
+1.6
